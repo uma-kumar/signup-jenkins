@@ -1,6 +1,6 @@
 [DEFAULT]
-user=ocid1.user.oc1..aaaaaaaa7yztrq4qr4ns4xmnr2wed4e55zxaldfsncferhf3pf3odehiv26a
-fingerprint=19:cb:f5:35:8f:72:58:5c:79:c6:99:d0:af:2e:2c:92
-key_file=/home/opc/.oci/oci_api_key.pem
-tenancy=ocid1.tenancy.oc1..aaaaaaaapox4qeg75qpeqjruuqxe7ybflk5utmt5cwwtdukuphkmise4h3hq
+fingerprint=d9:16:6f:0f:71:ef:c4:05:94:7e:05:81:67:f7:45:76
+key_file=/Users/umakumar/.oci/cloud_rsa.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaaff2avv7uvhyylobvvjbjbmhaugejqbdgscj2us2vwfhjtpltfkjq
 region=us-ashburn-1
+user=ocid1.user.oc1..aaaaaaaagibwpsmpuszypewy5weubefa5dp4t52dhcuzroxntjm22kbgvima
