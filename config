@@ -1,6 +1,6 @@
 [DEFAULT]
 fingerprint=d9:16:6f:0f:71:ef:c4:05:94:7e:05:81:67:f7:45:76
-key_file=/Users/umakumar/.oci/cloud_rsa.pem
+key_file=/home/opc/.oci/cloud_rsa.pem
 tenancy=ocid1.tenancy.oc1..aaaaaaaaff2avv7uvhyylobvvjbjbmhaugejqbdgscj2us2vwfhjtpltfkjq
 region=us-ashburn-1
 user=ocid1.user.oc1..aaaaaaaagibwpsmpuszypewy5weubefa5dp4t52dhcuzroxntjm22kbgvima
